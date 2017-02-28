@@ -1,0 +1,12 @@
+{
+  "name": "phiisical",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "eddystone-beacon": "^1.0.7",
+    "express": "^4.14.1",
+    "ngrok": "^2.2.6",
+    "promise": "^7.1.1"
+  }
+}
